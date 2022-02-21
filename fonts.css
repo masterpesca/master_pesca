@@ -1,4 +1,10 @@
 @font-face {
+   font-family: "Bebas Neue Bold";
+   src: url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype"), url("fonts/BebasNeueBold.woff") format("woff");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
    font-family: "Oswald";
    src: url("fonts/Oswald-Bold.eot") format("embedded-opentype"), url("fonts/Oswald-Bold.ttf") format("truetype"), url("fonts/Oswald-Bold.woff") format("woff"), url("fonts/Oswald-Bold.svg") format("svg");
    font-weight: bold;
@@ -81,12 +87,6 @@
    src: url("fonts/Oswald-LightItalic.eot") format("embedded-opentype"), url("fonts/Oswald-LightItalic.ttf") format("truetype"), url("fonts/Oswald-LightItalic.woff") format("woff"), url("fonts/Oswald-LightItalic.svg") format("svg");
    font-weight: normal;
    font-style: italic;
-}
-@font-face {
-   font-family: "Bebas Neue Bold";
-   src: url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype"), url("fonts/BebasNeueBold.woff") format("woff");
-   font-weight: bold;
-   font-style: normal;
 }
 @font-face {
    font-family: "Oswald Regular";
